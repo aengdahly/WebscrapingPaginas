@@ -1,3 +1,4 @@
-# Webscraping Página Nature.com
+# Webscraping Páginas.
 
-Completar **frase** que se desea buscar en el jupyter.
+## Para el código del WebscrapingNature.ipynb
+* Completar **frase** con la frase que se desea buscar en el jupyter.
